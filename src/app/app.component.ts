@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'basic-eslint-githook-demo';
+  public title = 'basic-eslint-githook-demo';
 }
